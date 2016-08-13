@@ -1,0 +1,21 @@
+#myCanvas {
+    margin: 20px auto;
+    display: block;
+    background-color: #f1f1f1;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+#drpShape {
+    margin: 10px auto;
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+    padding-left: 5px;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+h1 {
+    text-align: center;
+    margin: 15px auto;
+}
